@@ -9,6 +9,6 @@ class Car {
   }
 }
 
+const car1 = new Car('Toyota','Red');
+car1.drive();
 
-const car1 = new Car('Toyota','Red')
-car1.drive()
